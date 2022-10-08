@@ -1,8 +1,10 @@
 # 199-Hours-British-English-Speech-Data-by-Mobile-Phone_Reading
-https://www.datatang.ai/datasets/80
+
 
 ## Description
 The data set contains 346 British English speakers' speech data, all of whom are English locals. Around 392 sentences of each speaker. The valid data is 199 hours. Recording environment is quiet. Recording contents contain various categories like economics, news, entertainment, commonly used spoken language, letter, figure, etc.
+
+For more details, please refer to the link: https://bit.ly/3xQuc7m
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 5 noise symbols, special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing

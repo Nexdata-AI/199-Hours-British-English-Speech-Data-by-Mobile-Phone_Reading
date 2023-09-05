@@ -4,7 +4,8 @@
 ## Description
 The data set contains 346 British English speakers' speech data, all of whom are English locals. Around 392 sentences of each speaker. The valid data is 199 hours. Recording environment is quiet. Recording contents contain various categories like economics, news, entertainment, commonly used spoken language, letter, figure, etc.
 
-For more details, please refer to the link: https://bit.ly/3xQuc7m
+For more details, please refer to the link: https://www.nexdata.ai/datasets/80?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
